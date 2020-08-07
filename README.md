@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on (@Mothership-io)
+- 🔭 I’m currently working on @Mothership-io
 
 - 🌱 I’m currently learning Node-js
 
