@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MEAN Stack,Python,Html,Node-js**
 
-- 📫 How to reach me: **johntharian247@gmail.com**
+- 📫 How to reach me: **[https://johntharian.github.io/]**
 
 - ⚡ Fun fact: I can binge watch a series in a day
 
