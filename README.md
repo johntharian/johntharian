@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on @Mothership-io
 
-- 🌱 I’m currently learning Node-js
+- 🌱 I’m currently learning Django
 
-- 💬 Ask me about **MEAN Stack,Python,Html,Node-js**
+- 💬 Ask me about **Python,Html,Machine Learning**
 
 - 📫 How to reach me: **https://johntharian.github.io/**
 
