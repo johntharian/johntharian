@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on @Mothership-io
+- 🔭 I’m currently working at [https://difinative.com/]DifiNative Technologies
 
 - 🌱 I’m currently learning Django
 
