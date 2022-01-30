@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working at [https://difinative.com/]DifiNative Technologies
+- 🔭 I’m currently working at [DifiNative Technologies](https://difinative.com/)
 
 - 🌱 I’m currently learning Django
 
@@ -12,4 +12,3 @@
 - 📫 How to reach me: **https://johntharian.github.io/**
 
 - ⚡ Fun fact: I can binge watch a series in a day
-
