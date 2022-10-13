@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working at [DifiNative Technologies](https://difinative.com/)
+- 🔭 I’m used to work at [DifiNative Technologies](https://difinative.com/)
 
 - 🌱 I’m currently learning Django
 
