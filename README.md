@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m used to work at [DifiNative Technologies](https://difinative.com/)
+- 🔭 I used to work at [DifiNative Technologies](https://difinative.com/)
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django and React
 
 - 💬 Ask me about **Python,Html,Machine Learning**
 
