@@ -5,9 +5,9 @@
 
 - 🔭 I used to work at [DifiNative Technologies](https://difinative.com/)
 
-- 🌱 I’m currently learning Django and React
+- 🌱 I’m currently working at [Zevi.AI](https://zevi.ai/)
 
-- 💬 Ask me about **Python,Html,Machine Learning**
+- 💬 Ask me about **Python and Machine Learning**
 
 - 📫 How to reach me: **https://johntharian.github.io/**
 
