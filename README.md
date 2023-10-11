@@ -10,7 +10,7 @@
 - 📫 How to reach me: **https://johntharian.github.io/**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyaanilkumar" alt="adithyaanilkumar" /> </p>??
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyaanilkumar" alt="adithyaanilkumar" /> </p>
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
@@ -31,7 +31,6 @@
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/c-36-555159.png" alt="" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/google-cloud-2038785-1721675.png" alt="" height="35" width="35" /></a>
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=johntharian&show_icons=true" alt="" /> </p>
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
