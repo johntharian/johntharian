@@ -10,6 +10,8 @@
 
 
 
+
+
 <i class="devicon-react-original colored"></i>
 <p align="center">
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="python" height="35" width="35" /></a>
