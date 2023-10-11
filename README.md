@@ -9,9 +9,6 @@
 - 📫 How to reach me: **https://johntharian.github.io/**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyaanilkumar" alt="adithyaanilkumar" /> </p>
-
-
 
 <i class="devicon-react-original colored"></i>
 <p align="center">
