@@ -3,10 +3,9 @@
 
 
 
-- 🔭 I used to work at [DifiNative Technologies](https://difinative.com/) and [Zevi.AI](https://zevi.ai/)
-- 💬 Ask me about **MERN Stack, Python and Machine Learning**
+- 🔭 Currently working as Platform Engineer at [Kitecyber](https://www.kitecyber.com/)
+- 💬 Ask me about **Golang, Python and Machine Learning**
 - 📕 You can read my paper here [Emotion recognition using TinyML](https://ieeexplore.ieee.org/document/10094330)
-- 📫 How to reach me: **https://johntharian.github.io/**
 
 
 
