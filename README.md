@@ -3,12 +3,16 @@
 
 
 
-- 🔭 Currently working as Platform Engineer at [Kitecyber](https://www.kitecyber.com/)
+- 🔭 I work as a Platform Engineer at [Kitecyber](https://www.kitecyber.com/)
+- 🧑‍💻 I'm currently working on a cross platform knowledge engine
+- 📜 I'm currently learning Swift
 - 💬 Ask me about **Golang, Python and Machine Learning**
 - 📕 You can read my paper here [Emotion recognition using TinyML](https://ieeexplore.ieee.org/document/10094330)
 
-
-
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{johntharian}/count.svg" alt="Visitor's Count" />
+</div>
 
 
 <i class="devicon-react-original colored"></i>
