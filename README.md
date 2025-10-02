@@ -10,7 +10,6 @@
 - 📕 You can read my paper here [Emotion recognition using TinyML](https://ieeexplore.ieee.org/document/10094330)
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
