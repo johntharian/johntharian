@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I work as a Platform Engineer at [Kitecyber](https://www.kitecyber.com/)
+- 🔭 I work as a Software Engineer at [Kitecyber](https://www.kitecyber.com/)
 - 🧑‍💻 I'm currently working on a cross platform knowledge engine
 - 📜 I'm currently learning Swift
 - 💬 Ask me about **Golang, Python and Machine Learning**
